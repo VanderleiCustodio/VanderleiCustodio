@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**VanderleiCustodio/VanderleiCustodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/VanderleiCustodio"> 🔗
+  https://gitfollio.vercel.app/VanderleiCustodio
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Vanderlei CUSTODIO",
+  "email": "vanderleicustodiods@gmail.com",
+  "tagline": "",
+  "avatar_url": "https://avatars.githubusercontent.com/u/214047199?v=4",
+  "website": "",
+  "githubUser": "VanderleiCustodio",
+  "linkedinUser": "",
+  "about": "",
+  "showStars": true,
+  "showFollowers": true,
+  "followers": 0,
+  "following": 0,
+  "themeId": "dark",
+  "tech": [
+  "python",
+  "langchain",
+  "open ai"
+],
+  "projects": []
+}
+GitFolio:end -->
+  

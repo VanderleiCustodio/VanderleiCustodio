@@ -25,7 +25,7 @@ Acesse meu portfólio em:
   "langchain",
   "open ai"
 ],
-  "projects": [https://github.com/VanderleiCustodio/Local-Chat-Bot]
+  "projects": ["https://github.com/VanderleiCustodio/Local-Chat-Bot"]
 }
 GitFolio:end -->
   
